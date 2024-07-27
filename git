@@ -1,0 +1,38 @@
+[33mcommit 4f426db497221430cb4c4815d338fd7613bc77dd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Osvaldo-Freitas <osvaldo.freitas1979@gmail.com>
+Date:   Fri Jul 26 16:42:15 2024 -0300
+
+    inclusão de changelog.md
+
+ changelog.md | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit f9100c2d19d36bfb4976a3c0698f91d097cc5902[m
+Author: Osvaldo-Freitas <osvaldo.freitas1979@gmail.com>
+Date:   Fri Jul 26 16:11:40 2024 -0300
+
+    tirando acentuação no arquivo2.txt
+
+ arquivo2.txt | Bin [31m32[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 873e6514488d624ab6a6f7a86822d5eba557d9a8[m
+Author: Osvaldo-Freitas <osvaldo.freitas1979@gmail.com>
+Date:   Fri Jul 26 16:06:11 2024 -0300
+
+    alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m26[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 2dedd5a6c2fba10ae010e58e193aecc03dcaf1bf[m
+Author: Osvaldo-Freitas <osvaldo.freitas1979@gmail.com>
+Date:   Fri Jul 26 15:54:10 2024 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m26[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m26[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
